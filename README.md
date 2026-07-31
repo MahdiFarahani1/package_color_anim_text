@@ -1,4 +1,5 @@
-پکیج ساخته شده توسط من که یک ویجت زیبا انمیشن است منتشر شده در pub.dev
+Published Flutter package available on pub.dev
+
 <br>
 https://pub.dev/packages/color_anim_text
 # color_anim_text
